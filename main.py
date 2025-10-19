@@ -1,2 +1,1 @@
-print("Salam GitHub")
-print("Salam python")
+print("Salam", "dünya", 2025)
